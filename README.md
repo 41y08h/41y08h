@@ -27,7 +27,7 @@ if(youUnderstandThis) {
 ```
 
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">Typescript developer</h3>
+<h3 align="center">Javascript developer</h3>
 <br/>
 <br/>  
   
